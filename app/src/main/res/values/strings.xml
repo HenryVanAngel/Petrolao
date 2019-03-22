@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petrolão</string>
+    <string name="titleApp">Petrolão - O Combustivel mais vantajoso!</string>
+    <string name="priceGas">Preço Gasolina</string>
+    <string name="etanolPrice">Preço Etanol</string>
+    <string name="resultLabel">É melhor usar:</string>
+    <string name="description">Resultado</string>
+    <string name="etanol">ETANOL</string>
+    <string name="gas">GASOLINA</string>
+</resources>

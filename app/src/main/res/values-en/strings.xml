@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petrolão</string>
+    <string name="titleApp">Petrolão - The most advantageous Fuel!</string>
+    <string name="priceGas">Price Gasoline</string>
+    <string name="etanolPrice">Price Ethanol</string>
+    <string name="resultLabel">It is best to use:</string>
+    <string name="description">Result</string>
+    <string name="etanol">ETHANOL</string>
+    <string name="gas">GASOLINE</string>
+</resources>

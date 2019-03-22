@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Petrolão</string>
+    <string name="titleApp">Petrolão - 最有利的燃料！</string>
+    <string name="priceGas">汽油价格</string>
+    <string name="etanolPrice">乙醇价格</string>
+    <string name="resultLabel">最好使用</string>
+    <string name="description">结果</string>
+    <string name="etanol">乙醇</string>
+    <string name="gas">汽油</string>
+</resources>
